@@ -1,16 +1,22 @@
+# Manual Testing Project
 
-# QA Practice Project for Saucedemo e-commerce website 
+This repository contains my manual software testing project  
+The test cases, scenarios, and bug reports are based on a demo e-commerce website.
 
-This repository contains my manual testing practice files, including:
+## What's Included
 
-- ✅ All test cases (grouped by module) in `TestCases/All_TestCases.md`
-- 🧪 All test scenarios in `TestScenarios/All_TestScenarios.md`
-- 🐞 Individual bug reports in the `BugReports/` folder
+Full functional test cases covering the major modules (login, signup, checkout, product page, etc.)
+Test scenarios representing end-user actions
+A Bug report found during the testing process
 
-### Folder Structure
+Tools Used
 
-- `/TestCases`: All test cases organized by module in a single file.
-- `/TestScenarios`: All scenarios organized by module.
-- `/BugReports`: Individual markdown files for each reported bug.
+- Microsoft Excel 
+- Markdown 
+- GitHub 
 
-This structure helps keep the project clean and easy to follow, while demonstrating thorough manual testing practice across multiple modules.
+## How to Read
+
+All Test cases,Test Scenarios and Bug Report are organized into their respective folders
+
+This project shows my understanding of QA fundamentals: writing test cases, scenarios, identifying bugs, and documenting clearly.
